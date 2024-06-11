@@ -32,6 +32,7 @@ The user interface is designed to be simple yet attractive, with intuitive butto
 ## Installation:
 
 1. Clone this repository to your local machine.
+   ```bash
    git clone https://github.com/harpalmodasiya/Calculator-in-python.git
 3. Make sure you have Python installed.
 4. Install the required Tkinter library if not already installed.
