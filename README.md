@@ -32,9 +32,10 @@ The user interface is designed to be simple yet attractive, with intuitive butto
 ## Installation:
 
 1. Clone this repository to your local machine.
-2. Make sure you have Python installed.
-3. Install the required Tkinter library if not already installed.
-4. Run the `PyCalc.py` file.
+   git clone https://github.com/harpalmodasiya/Calculator-in-python.git
+3. Make sure you have Python installed.
+4. Install the required Tkinter library if not already installed.
+5. Run the `PyCalc.py` file.
 
 ## Contributions:
 
@@ -48,4 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <img width="264" alt="PyCalc" src="https://github.com/harpalmodasiya/Calculator-in-Python/assets/171497968/aa632c9c-2879-40c2-bec1-f38209b0f0da">
 
-Happy calculating! 🧮
+
+## Happy calculating! 🧮
