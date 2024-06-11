@@ -46,6 +46,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Sample Screenshot
 
-
+<img width="264" alt="PyCalc" src="https://github.com/harpalmodasiya/Calculator-in-Python/assets/171497968/aa632c9c-2879-40c2-bec1-f38209b0f0da">
 
 Happy calculating! 🧮
